@@ -1,0 +1,17 @@
+# Chinese(Taiwan) Compendium for Buo-ren, Lin
+# Copyright (C) 2018 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
+# This file is distributed under Creative Commons BY-SA 4.0+
+# 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: compendium-zh-tw-buo-ren-lin git\n"
+"Report-Msgid-Bugs-To: 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>\n"
+"POT-Creation-Date: 2018-04-21 18:50+0800\n"
+"PO-Revision-Date: 2018-04-21 18:50+0800\n"
+"Last-Translator: 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>\n"
+"Language-Team: The Chinese (traditional) translation team <zh-l10n@linux.org.tw>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
